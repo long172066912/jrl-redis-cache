@@ -1,6 +1,7 @@
 # Lcache
 
 cache组件
+后续将挪到 https://github.com/long172066912/jrl-tools，并优化
 
 分布式多级缓存等高级特性 
 
